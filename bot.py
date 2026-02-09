@@ -11,7 +11,7 @@ BOT_TOKEN = "8235351743:AAHZBnkoR0XMzbLw-b6gMBb9CeAOLFSwF2Y"
 
 # Your provided credentials
 A4F_API_KEY = "ddc-a4f-f4e3b93097424827ae35b1494c5fd557"
-MODEL = "provider-4/sdxl-lite"
+MODEL = "provider-4/flux-2-klein-9b"
 # Official A4F OpenAI-compatible endpoint
 API_URL = "https://api.a4f.co/v1/images/generations"
 
